@@ -1,0 +1,9 @@
+{
+  "appId": "com.auraluxe.studio",
+  "appName": "Auraluxe Studio",
+  "webDir": "dist",
+  "server": {
+    "url": "https://ais-pre-hq72wzbw2qxilgrii6btvd-80646321721.asia-east1.run.app",
+    "cleartext": true
+  }
+}

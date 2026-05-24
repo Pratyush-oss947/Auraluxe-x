@@ -1,0 +1,10 @@
+{
+  "name": "Auraluxe",
+  "description": "High-performance futuristic audio player and multidimensional workspace. Includes Web Audio API 32-band EQ, premium interactive visualizers, and server-side AI DJ curation.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Auraluxe Studio</string>
+    <string name="title_activity_main">Auraluxe Studio</string>
+    <string name="package_name">com.auraluxe.studio</string>
+    <string name="custom_url_scheme">com.auraluxe.studio</string>
+</resources>
